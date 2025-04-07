@@ -1,0 +1,6 @@
+2025/04/07-14:29:45.531 483c Reusing MANIFEST C:\Users\shinv\efrei\test_unitaire_php\TP noté\Gestion_des_utilisateurs_tests\tests\edge_temp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/07-14:29:45.532 483c Recovering log #10
+2025/04/07-14:29:45.533 483c Reusing old log C:\Users\shinv\efrei\test_unitaire_php\TP noté\Gestion_des_utilisateurs_tests\tests\edge_temp_profile\Default\EdgeCoupons/coupons_data.db/000010.log 
+2025/04/07-14:29:45.588 368c Level-0 table #14: started
+2025/04/07-14:29:45.595 368c Level-0 table #14: 670820 bytes OK
+2025/04/07-14:29:45.597 368c Delete type=0 #10
